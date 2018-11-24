@@ -1,0 +1,2 @@
+JavaScript (ES6) code snippets  <- console.log 이런 단축키 제공
+
