@@ -1,2 +1,2 @@
-JavaScript (ES6) code snippets  <- console.log ÀÌ·± ´ÜÃàÅ° Á¦°ø
+JavaScript (ES6) code snippets  <- ë‹¨ì¶•í‚¤ ì œê³µ ì§§ê²Œ.. ë§¤ìš°ìœ ìš©
 
