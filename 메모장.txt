@@ -1,2 +1,2 @@
 JavaScript (ES6) code snippets  <- 단축키 제공 짧게.. 매우유용
-
+Template Literal Editor <- 템플릿 리터럴 `` 이거 쓸때 ctrl + enter로 편하게 쓸수있음
