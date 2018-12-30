@@ -1,0 +1,13 @@
+윈도우에 몽고디비 설치
+    
+    1.매우 짜증났음
+    2.그냥 zip 파일 받은다음 환경변수 설정 하는게 속편함
+    3.mongod 이게 서비스 실행(서버실행)
+    4.저거 후에 접속해야됨
+    5.그러니까 윈도우에 설치하면 mongod 
+    --install --serviceName MongoDB 
+    --serviceDisplayName MongoDB
+    --dbpath C:\mongoDB\data 
+    --logpath C:\mongoDB\log\mongoservice.log --logappend
+    이거 실행 해주면 서비스에 자동 등록돼서 그냥 실행만 하면 됨
+    
