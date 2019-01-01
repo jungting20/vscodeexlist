@@ -1,1 +1,25 @@
 다음 편집점으로 이동 ctrl shift 아래
+
+
+
+task.json
+{
+    "version": "0.1.0",
+    "command": "node",
+    "isShellCommand": true,
+    "args": [
+        "--harmony"
+    ],
+ 
+    "tasks": [
+        {
+            "taskName": "runFile",
+            "suppressTaskName": true,
+            "showOutput": "always",
+            "problemMatcher": "$jshint",
+            "args": ["${file}"],
+            "isBuildCommand": true
+        }
+    ]
+ }
+ 
